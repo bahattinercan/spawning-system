@@ -637,11 +637,11 @@ MonoBehaviour:
   - prefab: {fileID: 3027855134851983145, guid: 772d5fa47722c174fbf4ec125d88ed9d, type: 3}
     spawnPercent: 20
   - prefab: {fileID: 2900619977139532788, guid: 16731a4e6347a9347b406b85796f60bf, type: 3}
-    spawnPercent: 30
+    spawnPercent: 50
   - prefab: {fileID: 3571126356589816567, guid: 78c4b2020c73d3e42a84809308627eff, type: 3}
-    spawnPercent: 25
+    spawnPercent: 15
   - prefab: {fileID: 2945833944292797458, guid: 965fe9ca3d272a040b0bf0c3718ccd04, type: 3}
-    spawnPercent: 25
+    spawnPercent: 15
   spawnPoints:
   - spawningPoint: {fileID: 2088470006}
     spawnPercent: 25
