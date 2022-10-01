@@ -648,9 +648,9 @@ MonoBehaviour:
   - spawningPoint: {fileID: 1610797448}
     spawnPercent: 25
   - spawningPoint: {fileID: 265969417}
-    spawnPercent: 25
+    spawnPercent: 30
   - spawningPoint: {fileID: 784338513}
-    spawnPercent: 25
+    spawnPercent: 20
   target: {fileID: 712010684}
   startSpawnDelay: 0
   spawnDelay: 0.25
